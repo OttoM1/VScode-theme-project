@@ -1,0 +1,20 @@
+{
+  "name": "CerebralNight",
+  "displayName": "Cerebral Night (Otto)",
+  "description": "A crisp, high-contrast dark theme tuned for UI/UX + front-end work.",
+  "version": "0.0.1",
+  "publisher": "otto-oliver-mulari",
+  "license": "MIT",
+  "engines": { "vscode": "^1.85.0" },
+  "categories": ["Themes"],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cerebral Night (Otto)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CerebralNight.json"
+      }
+    ]
+  }
+}
