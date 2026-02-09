@@ -1,4 +1,3 @@
-# Cerebra Night (Otto)
 
 DO NOT INSTALL THIS !!! LMAO
 
